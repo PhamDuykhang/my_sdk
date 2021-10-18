@@ -1,4 +1,4 @@
-module github.com/PhamDuyKhang/sdk
+module github.com/PhamDuyKhang/my_sdk
 
 go 1.16
 
